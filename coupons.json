@@ -1,5 +1,7 @@
 {
   "amazon.com": ["SAVE10", "FREESHIP"],
   "walmart.com": ["WAL10", "WELCOME5"],
+  "walmart.ca": ["WAL10", "WELCOME5"],
   "shein.com": ["GET15", "EXTRA20"]
 }
+
